@@ -9,7 +9,7 @@ favicon: /favicon.ico
 # theme styling
 # color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
 theme:
-  color: Default
+  color: Cobalt Blue
   anchor: "§"
 
 # comments
@@ -35,10 +35,10 @@ disqus_shortname: sahil-cc.disqus.com
 # Social links
 social:
   email: sahilahuja@gmail.com
-  stack-overflow:
-  twitter:
-  facebook:
-  github: 
+  stack-overflow: http://stackoverflow.com/story/sahilahuja
+  twitter: https://twitter.com/_sahilahuja
+  facebook: https://facebook.com/ahujasahil
+  github: https://github.com/sahil87
   weibo: 
   zhihu: 
   rss: /atom.xml
