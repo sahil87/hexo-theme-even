@@ -1,8 +1,8 @@
 # navbar
 menu:
-  Home: /
-  Archives: /archives/
+  About: /about/
   Quotes: /quotes/
+  Archives: /archives/
 
 # site icon
 favicon: /favicon.ico
@@ -43,3 +43,7 @@ social:
   weibo: 
   zhihu: 
   rss: /atom.xml
+
+less:
+  paths:
+    - node_modules/font-awesome/less/font-awesome.less
