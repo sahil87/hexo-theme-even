@@ -43,7 +43,3 @@ social:
   weibo: 
   zhihu: 
   rss: /atom.xml
-
-less:
-  paths:
-    - node_modules/font-awesome/less/font-awesome.less

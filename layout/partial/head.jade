@@ -12,6 +12,8 @@ link(rel="canonical", href=url_for(url.replace(/index\.html/,'')))
 //- theme style
 link(rel="stylesheet", href=url_for("css/style.css"))
 
+script(src=url_for("https://use.fontawesome.com/4c8c3dc15a.js"))
+
 include ../mixins/analytics
 if theme.baidu_analytics && !env.debug
   //- baidu analytics
