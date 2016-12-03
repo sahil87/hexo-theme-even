@@ -1,8 +1,9 @@
-Archives: Archives
 Home: Home
 Tags: Tags
 Categories: Categories
-About: About
+About: "<i class='fa fa-user fa-lg'></i>"
+Quotes: "<i class='fa fa-quote-left fa-lg'></i>"
+Archives: "<i class='fa fa-archive fa-lg'></i>"
 prev: Prev
 next: Next
 prev_post: Prev
